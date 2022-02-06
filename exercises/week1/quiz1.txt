@@ -1,0 +1,4 @@
+image_convolution: 13
+boundary_length: 16328
+curve_smoothing: 77
+display_name: ElonMusk
