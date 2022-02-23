@@ -1,0 +1,4 @@
+translation_length: 472.4217013736698
+magnification_scale: 2.7079580252521973
+rotation_angle: 157.1094472
+display_name: ElonMusk
