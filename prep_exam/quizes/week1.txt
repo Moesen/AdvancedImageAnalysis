@@ -1,0 +1,5 @@
+Questions:
+
+    Which number appears when you convolve the image noisy_number.png with an appropriately large Gaussian kernel? (In connection to 1.1.1)
+    What is the boundary length computed from the image fuel_cell_1.tif? (In connection to 1.1.2)
+    What is the length of the curve computed by smoothing dino_noisy.txt curve using Equation 1.10 and the parameter lambda=0.25? (In connection to 1.1.3)

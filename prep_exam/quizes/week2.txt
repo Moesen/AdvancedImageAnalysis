@@ -1,0 +1,6 @@
+Questions:
+
+    What is the mean radius (in pixels) of the blobs from the image test_blob_varying.png?
+    What is the number of fibers detected by the blob detector in the image CT_lab_high_res.png?
+    What is the mean radius (in pixels) of the blobs from the image CT_lab_high_res.png?
+

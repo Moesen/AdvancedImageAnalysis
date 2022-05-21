@@ -1,0 +1,8 @@
+Questions:
+
+All three of the quiz questions are concerning the transformation between the following two images: quiz_image_1.png and quiz_image_2.png.
+
+    What is the length of the translation vector (in pixels) between original (not rotated) points? That is, what is the distance between µq and µp?
+    What is the magnification scale (i.e. the larger of the numbers s and 1/s)?
+    What is the absolute angle of the rotation in degrees?
+
